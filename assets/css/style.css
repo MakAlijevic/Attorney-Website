@@ -97,7 +97,7 @@ h6 {
 #header .logo img {
   padding: 0;
   margin: 0;
-  max-height: 40px;
+  max-height: 55px;
 }
 
 @media (max-width: 992px) {
@@ -381,26 +381,6 @@ h6 {
   font-size: 14px;
   font-weight: 400;
   text-transform: uppercase;
-}
-
-#hero .btn-get-started {
-  font-family: "Montserrat", sans-serif;
-  text-transform: uppercase;
-  font-weight: 400;
-  font-size: 16px;
-  letter-spacing: 1px;
-  display: inline-block;
-  padding: 14px 30px;
-  border-radius: 3px;
-  margin: 10px;
-  color: #fff;
-  background: #7cc576;
-}
-
-#hero .btn-get-started:hover {
-  transition: 0.5s;
-  background: #fff;
-  color: #7cc576;
 }
 
 @media (min-width: 1024px) {
@@ -967,7 +947,7 @@ section {
 }
 
 #footer .footer-top .footer-logo img {
-  height: 80px;
+  height: 120px;
 }
 
 #footer .footer-top h3 {
