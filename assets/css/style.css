@@ -295,8 +295,7 @@ h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("../img/hero-bg.png");
-  position: relative;
+  background: url("../img/hero-bg3.jpg");
 }
 
 #hero .hero-container {
