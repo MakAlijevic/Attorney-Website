@@ -282,7 +282,7 @@ h6 {
 .navbar-mobile .dropdown ul a:hover,
 .navbar-mobile .dropdown ul .active:hover,
 .navbar-mobile .dropdown ul li:hover>a {
-  color: #7cc576;
+  color: #dab551;
 }
 
 .navbar-mobile .dropdown>.dropdown-active {
@@ -331,6 +331,45 @@ h6 {
   font-size: 14px;
   font-weight: 400;
   text-transform: uppercase;
+}
+
+.arrow-scroll {
+  margin-top: 60px;
+  position: relative;
+  height: 4em;
+}
+
+.arrow {
+  border: solid #dab551;
+  border-width: 0 5px 5px 0;
+  display: inline-block;
+  padding: 12px;
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%) rotate(45deg);
+}
+
+.arrow:nth-child(2) {
+  animation: arrow1 1.5s ease-in-out infinite;
+}
+
+.arrow:nth-child(3) {
+  animation: arrow2 1.5s ease-in-out infinite;
+}
+
+@keyframes arrow1 {
+  100% {
+    opacity: 0;
+    top: 100%;
+  }
+}
+
+@keyframes arrow2 {
+  100% {
+    opacity: 0;
+    top: 50%;
+  }
 }
 
 @media (min-width: 1024px) {
