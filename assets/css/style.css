@@ -441,6 +441,10 @@ section {
 /*--------------------------------------------------------------
 # About Us
 --------------------------------------------------------------*/
+.about #experience-text {
+  color: #dab651c0;
+}
+
 .about .image {
   padding: 20px 0;
   box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
@@ -499,6 +503,11 @@ section {
 /*--------------------------------------------------------------
 # Services
 --------------------------------------------------------------*/
+.services #office-text {
+  color: #dab551;
+  font-size: large;
+}
+
 .services .icon-box {
   text-align: center;
   padding: 80px 20px;
