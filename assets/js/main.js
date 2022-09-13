@@ -187,9 +187,27 @@
   });
 
   /**
-   * quotes slider
+   * Quotes slider
    */
   new Swiper('.quotes-slider', {
+    speed: 600,
+    loop: true,
+    autoplay: {
+      delay: 5000,
+      disableOnInteraction: false
+    },
+    slidesPerView: 'auto',
+    pagination: {
+      el: '.swiper-pagination',
+      type: 'bullets',
+      clickable: true
+    }
+  });
+
+  /**
+   * Image slider
+   */
+  new Swiper('.image-slider', {
     speed: 600,
     loop: true,
     autoplay: {
