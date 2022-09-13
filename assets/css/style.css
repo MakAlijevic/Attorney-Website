@@ -446,6 +446,14 @@ section {
   box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
 }
 
+.about .picture {
+  text-align: center;
+}
+
+.about .image-slider {
+  overflow: hidden;
+}
+
 .about .content h3 {
   font-weight: 600;
   font-size: 28px;
