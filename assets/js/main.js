@@ -187,9 +187,9 @@
   });
 
   /**
-   * Testimonials slider
+   * quotes slider
    */
-  new Swiper('.testimonials-slider', {
+  new Swiper('.quotes-slider', {
     speed: 600,
     loop: true,
     autoplay: {
