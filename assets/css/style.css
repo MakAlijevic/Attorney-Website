@@ -584,6 +584,46 @@ section {
   color: #fff;
 }
 
+.services .corporate {
+  background-image: url(../img/corporate-lawyers.png);
+  background-size: cover;
+}
+
+.services .labor {
+  background-image: url(../img/Labor-Law-.jpg);
+  background-size: cover;
+}
+
+.services .finance {
+  background-image: url(../img/banking_and_finance_law.jpg);
+  background-size: cover;
+}
+
+.services .insolvency {
+  background-image: url(../img/insolvency.jpg);
+  background-size: cover;
+}
+
+.services .dispute {
+  background-image: url(../img/dispute.jpg);
+  background-size: cover;
+}
+
+.services .realestate {
+  background-image: url(../img/real-estate.jpg);
+  background-size: cover;
+}
+
+.services .data {
+  background-image: url(../img/data\ protection.jpg);
+  background-size: cover;
+}
+
+.services .telecommunications {
+  background-image: url(../img/telecommunication.jpg);
+  background-size: cover;
+}
+
 /*--------------------------------------------------------------
 # Quotes
 --------------------------------------------------------------*/
