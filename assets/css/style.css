@@ -25,6 +25,35 @@ h6 {
   font-family: "Montserrat", sans-serif;
 }
 
+::-webkit-scrollbar {
+  width: 0.85em;
+  background-image: #fff;
+}
+
+::-webkit-scrollbar-track {
+  background: rgb(255, 255, 255);
+  border-radius: 100vw;
+  margin-block: .5rem;
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgb(133, 133, 133);
+  border: .25em solid rgb(133, 133, 133);
+  border-radius: 100vw;
+  cursor: pointer;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgb(255, 255, 255);
+  cursor: pointer;
+}
+
+@supports (scrollbar-color: red blue) {
+  * {
+    scrollbar-color: rgb(255, 255, 255) rgb(31, 31, 31);
+  }
+}
+
 /*--------------------------------------------------------------
 # Back to top button
 --------------------------------------------------------------*/
