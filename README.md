@@ -1,6 +1,6 @@
 # Attorney-Website
 
-Website design for attorney office
+Website design for law office.
 
 ## Link to website
 
