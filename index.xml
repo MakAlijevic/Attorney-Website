@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE article>
+<article
+  xml:lang="en"
+  xmlns="http://docbook.org/ns/docbook" version="5.0"
+  xmlns:xlink="http://www.w3.org/1999/xlink" >
+  <info>
+    <title>Law Office ČIVIĆ</title>
+  </info>
+  <anchor xml:id="hero" />
+  <para>
+    <link xlink:href="index.html" role="hero-logo"></link>
+  </para>
+  <section xml:id="law-office">
+    <title>Law Office</title>
+    <section xml:id="mia-čivić">
+      <title>Mia Čivić</title>
+      <para>
+      </para>
+    </section>
+  </section>
+  <para>
+    <link linkend="services" role="arrow-scroll nav-link scrollto"></link>
+  </para>
+  <itemizedlist spacing="compact">
+    <listitem>
+      <para>
+        <link linkend="hero" role="nav-link scrollto active">Home</link>
+      </para>
+    </listitem>
+    <listitem>
+      <para>
+        <link linkend="services" role="nav-link scrollto">Services</link>
+      </para>
+    </listitem>
+    <listitem>
+      <para>
+        <link linkend="about" role="nav-link scrollto">About</link>
+      </para>
+    </listitem>
+    <listitem>
+      <para>
+        <link linkend="contact" role="nav-link scrollto">Contact</link>
+      </para>
+    </listitem>
+  </itemizedlist>
+  <para>
+    <emphasis></emphasis>
+  </para>
+  <para>
+    <link xlink:href="index.html"></link>
+  </para>
+  <anchor xml:id="main" />
+  <anchor xml:id="services" />
+  <para>
+    <anchor xml:id="office-text" />Office
+  </para>
+  <section xml:id="services">
+    <title>Services</title>
+    <para>
+    </para>
+  </section>
+  <para>
+    <emphasis></emphasis>
+  </para>
+  <section xml:id="corporate-commercial-law">
+    <title>Corporate &amp; Commercial Law</title>
+    <para>
+      Body of law governing the rights, relations, and conduct of
+      persons, companies, organizations and businesses
+    </para>
+  </section>
+  <para>
+    <emphasis></emphasis>
+  </para>
+  <section xml:id="employment-labor-law">
+    <title>Employment &amp; Labor Law</title>
+    <para>
+      Relationship between workers, employing entities, trade unions,
+      and the government.
+    </para>
+  </section>
+  <para>
+    <emphasis></emphasis>
+  </para>
+  <section xml:id="finance-banking">
+    <title>Finance &amp; Banking</title>
+    <para>
+      Insurance, derivatives, commercial banking, capital markets and
+      investment management sectors.
+    </para>
+  </section>
+  <para>
+    <emphasis></emphasis>
+  </para>
+  <section xml:id="insolvency-bankruptcy">
+    <title>Insolvency &amp; Bankruptcy</title>
+    <para>
+      Situations where a debtor cannot pay the debts they owe.
+    </para>
+  </section>
+  <para>
+    <emphasis></emphasis>
+  </para>
+  <section xml:id="dispute-resolution">
+    <title>Dispute resolution</title>
+    <para>
+      Dispute settlement is the process of resolving disputes between
+      parties.
+    </para>
+  </section>
+  <para>
+    <emphasis></emphasis>
+  </para>
+  <section xml:id="real-estate">
+    <title>Real Estate</title>
+    <para>
+      The right to possess, use, and enjoy land and the permanent
+      man-made additions attached to it.
+    </para>
+  </section>
+  <para>
+    <emphasis></emphasis>
+  </para>
+  <section xml:id="data-protection">
+    <title>Data protection</title>
+    <para>
+      Right to find out what information the government and other
+      organisations store about you.
+    </para>
+  </section>
+  <para>
+    <emphasis></emphasis>
+  </para>
+  <section xml:id="telecommunications">
+    <title>Telecommunications</title>
+    <para>
+      Law that regulates the telecommunications industry.
+    </para>
+  </section>
+  <anchor xml:id="about" />
+  <section xml:id="about-me">
+    <title>About Me</title>
+    <para>
+    </para>
+  </section>
+  <para>
+  </para>
+  <para>
+  </para>
+  <para>
+  </para>
+  <para>
+  </para>
+  <para>
+  </para>
+  <section xml:id="experience-text">
+    <title>My Experience</title>
+<literallayout>Attorney At Law with 20 years of experience with main practice areas: corporate and business law, banking and finance, commercial law and enforcement, with significant legal practice in the field of criminal law. I have an extensive experience in the contract law that she has elaborated at the University of Sarajevo Master of European Studies 2012.
+</literallayout>
+    <para>
+      Membership:
+    </para>
+    <itemizedlist spacing="compact">
+      <listitem>
+        <para>
+          <emphasis></emphasis>Sarajevo Bar Association
+        </para>
+      </listitem>
+      <listitem>
+        <para>
+          <emphasis></emphasis>Bar Association of Federation of Bosnia
+          and Herzegovina
+        </para>
+      </listitem>
+      <listitem>
+        <para>
+          <emphasis></emphasis>Certified Court interpreter of Federation
+          BiH
+        </para>
+      </listitem>
+    </itemizedlist>
+    <para>
+      For the past 4 years I have led Legal departments of two biggest
+      oil companies from MOL-INA Group in the Bosnia and Herzegovina and
+      also led Legal department in telecommunication sector for company
+      Telemach d.o.o., including corporate development, privacy and data
+      security compliance, employment law, vendor risk management, and
+      general business operations. She managed complex transactions
+      (acquisitions/investments in excess of 1 mil EUR) as well as day
+      to day matters such as contracts with vendors, employees and
+      management. I served as an advisor to Management Board regarding
+      regulatory issues related to the company’s products and services
+      across both jurisdictions in BiH. I advised Management Board on
+      business risks associated with new strategies and mitigating those
+      risks while preserving innovation within the organization.
+    </para>
+  </section>
+<literallayout>
+</literallayout>
+  <para>
+    I also worked as a Senior Associate at Miljković&amp;Partners Law
+    firm in Sarajevo with focus areas of civil litigation, contract law,
+    corporate and business law. Represent plaintiffs and defendants in
+    civil cases and manage all phases of the litigation process from
+    investigation, pleadings and discovery to pre-trial, trial,
+    settlement and appeal. I advised clients on various corporate and
+    regulatory aspects of their business. I gained extensive experience
+    as a Legal Counsel in major factoring company Prvi Faktor on various
+    complex legal aspects of numerous corporate, finance and regulatory
+    matters; assisting with regard to due diligence investigations of
+    individual financial aspects of the transactions, drafting and
+    negotiating various transaction documents, as well as monitoring of
+    implementation of all condition precedents and securitization of
+    transactions including collection of bad debts. Before joining Prvi
+    Faktor I was legal associate with B&amp;H Prosecutor's Office and
+    was involved in several major investigations related to white-collar
+    crime. Upon graduation I was legal advisor within the Anti-crime and
+    corruption Department of the Office of High Representative, an
+    institution established in line with the Dayton Peace Agreement
+    implementing various legal and political aspects of the Dayton Peace
+    Agreement including establishing of independent judiciary system in
+    B&amp;H.
+  </para>
+  <anchor xml:id="quotes" />
+  <para>
+    <emphasis></emphasis>
+  </para>
+  <para>
+    &quot;The pen is mighter than the sword.&quot;
+  </para>
+  <section xml:id="edward-bulwer-lytton">
+    <title>Edward Bulwer-Lytton</title>
+    <section xml:id="english-writer-and-politician">
+      <title>English writer and politician</title>
+      <para>
+      </para>
+    </section>
+  </section>
+  <para>
+    &quot;A lawyer has a duty to give his client the best possible
+    advice without regard for his own financial circumstances.&quot;
+  </para>
+  <section xml:id="john-grisham">
+    <title>John Grisham</title>
+    <section xml:id="the-rainmaker-book-quote">
+      <title>&quot;The Rainmaker&quot; book quote</title>
+      <para>
+      </para>
+    </section>
+  </section>
+  <para>
+    &quot;We are in the business of helping good people overcome bad
+    situations.&quot;
+  </para>
+  <section xml:id="david-reddell">
+    <title>David Reddell</title>
+    <section xml:id="us-attorney">
+      <title>US Attorney</title>
+      <para>
+      </para>
+    </section>
+  </section>
+  <para>
+    &quot;Nemo censetur ignorare legem&quot; - Ignorance of law excuses
+    no one.
+  </para>
+  <section xml:id="latin-phrase">
+    <title>Latin phrase</title>
+    <para>
+    </para>
+  </section>
+  <para>
+    &quot;The volume of your voice does not increase the validity of
+    your argument.&quot;
+  </para>
+  <section xml:id="steve-maraboli">
+    <title>Steve Maraboli</title>
+    <section xml:id="motivational-speaker-and-author">
+      <title>Motivational speaker and author</title>
+      <para>
+      </para>
+    </section>
+  </section>
+  <anchor xml:id="contact" />
+  <section xml:id="contact">
+    <title>Contact</title>
+    <para>
+      Feel free to send me a message or contact me through my contact
+      info.
+    </para>
+  </section>
+  <para>
+    <emphasis></emphasis>
+  </para>
+  <section xml:id="location">
+    <title>Location:</title>
+<literallayout>Branilaca Sarajeva 20/VII,
+Sarajevo, 71000 BIH</literallayout>
+  </section>
+  <para>
+    <emphasis></emphasis>
+  </para>
+  <section xml:id="email">
+    <title>Email:</title>
+    <para>
+      civic.mia@gmail.com
+    </para>
+  </section>
+  <para>
+    <emphasis></emphasis>
+  </para>
+  <section xml:id="call">
+    <title>Call:</title>
+    <para>
+      +387 63 892 448
+    </para>
+  </section>
+  <para>
+    Loading
+  </para>
+  <para>
+    Send Message
+  </para>
+  <para>
+    <link linkend="header" role="scrollto footer-logo"></link>
+  </para>
+  <section xml:id="čivić-law">
+    <title>Čivić Law</title>
+    <para>
+      We will always be in your service.
+    </para>
+  </section>
+  <para>
+    <link xlink:href="https://www.linkedin.com/in/mia-civic-68b9a136/" role="linkedin"><emphasis></emphasis></link>
+  </para>
+  <para>
+    © Copyright <emphasis role="strong">Civic-Law</emphasis>. All Rights
+    Reserved
+  </para>
+  <para>
+    Designed by
+    <link xlink:href="https://www.linkedin.com/in/mak-alijevi%C4%87-85347524a/">Mak
+    Alijević</link>
+  </para>
+  <link linkend="" role="back-to-top d-flex align-items-center justify-content-center"><emphasis></emphasis></link>
+</article>
