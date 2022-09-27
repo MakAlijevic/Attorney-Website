@@ -468,7 +468,7 @@ section {
 }
 
 /*--------------------------------------------------------------
-# About Us
+# About Me
 --------------------------------------------------------------*/
 .about #experience-text {
   color: #dab651c0;
@@ -476,6 +476,15 @@ section {
 
 .about .about-text {
   text-align: justify;
+}
+
+.about #downloadResume {
+  color: #fff;
+  background: #dab551;
+  border: 0;
+  padding: 10px 24px;
+  transition: 0.4s;
+  border-radius: 4px;
 }
 
 .about .image {
