@@ -1027,6 +1027,16 @@ section {
   margin-bottom: 0;
 }
 
+#footer .footer-top h4 {
+  font-size: 24px;
+  font-weight: 600;
+  color: rgb(138, 138, 138);
+  position: relative;
+  font-family: "Montserrat", sans-serif;
+  margin-top: 10px;
+  margin-bottom: 0;
+}
+
 #footer .footer-top p {
   font-size: 15;
   font-style: italic;
