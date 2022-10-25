@@ -1145,6 +1145,41 @@ section {
 }
 
 /*--------------------------------------------------------------
+# Data Protection
+--------------------------------------------------------------*/
+
+@media (min-width : 1200px) {
+  .dataProtection-align {
+    position: relative;
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    z-index: -1;
+  }
+
+  #dataProtectionText {
+    position: relative;
+    margin-top: 9rem;
+  }
+}
+
+@media (max-width : 1199px) {
+  .dataProtection-align {
+    position: relative;
+    display: flex;
+    margin-top: -30px;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    z-index: -1;
+  }
+}
+
+/*--------------------------------------------------------------
 # Breadcrumbs
 --------------------------------------------------------------*/
 .breadcrumbs {
