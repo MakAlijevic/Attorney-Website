@@ -943,18 +943,65 @@ section {
 # CorporateLaw
 --------------------------------------------------------------*/
 
-.corporate-align {
-  position: absolute;
-  bottom: 0;
-  top: 0;
-  left: 0;
-  right: 0;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-direction: column;
-  text-align: center;
-  z-index: -1;
+@media (min-width : 1200px) {
+  .corporate-align {
+    position: relative;
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    z-index: -1;
+  }
+}
+
+@media (max-width : 1199px) {
+  .corporate-align {
+    position: relative;
+    display: flex;
+    margin-top: -30px;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    z-index: -1;
+  }
+}
+
+/*--------------------------------------------------------------
+# EmploymentLaw
+--------------------------------------------------------------*/
+
+@media (min-width : 1200px) {
+  .employment-align {
+    position: relative;
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    z-index: -1;
+  }
+
+  #employmentText {
+    position: relative;
+    margin-top: 7.5rem;
+  }
+}
+
+@media (max-width : 1199px) {
+  .employment-align {
+    position: relative;
+    display: flex;
+    margin-top: -30px;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    z-index: -1;
+  }
 }
 
 /*--------------------------------------------------------------
