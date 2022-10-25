@@ -601,6 +601,7 @@ section {
   line-height: 24px;
   font-size: 14px;
   margin-bottom: 0;
+  color: #2f2f2f;
 }
 
 .services .icon-box:hover {
@@ -936,6 +937,24 @@ section {
   background-color: #dab551;
   border: 0;
   border-radius: 4px;
+}
+
+/*--------------------------------------------------------------
+# CorporateLaw
+--------------------------------------------------------------*/
+
+.corporate-align {
+  position: absolute;
+  bottom: 0;
+  top: 0;
+  left: 0;
+  right: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+  z-index: -1;
 }
 
 /*--------------------------------------------------------------
