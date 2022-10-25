@@ -913,7 +913,7 @@ section {
 }
 
 /*--------------------------------------------------------------
-# ThankYou
+# Thank You
 --------------------------------------------------------------*/
 
 .thankyou-text {
@@ -940,7 +940,7 @@ section {
 }
 
 /*--------------------------------------------------------------
-# CorporateLaw
+# Corporate Law
 --------------------------------------------------------------*/
 
 @media (min-width : 1200px) {
@@ -970,7 +970,7 @@ section {
 }
 
 /*--------------------------------------------------------------
-# EmploymentLaw
+# Employment Law
 --------------------------------------------------------------*/
 
 @media (min-width : 1200px) {
@@ -1005,7 +1005,7 @@ section {
 }
 
 /*--------------------------------------------------------------
-# Finance&Banking
+# Finance & Banking
 --------------------------------------------------------------*/
 
 @media (min-width : 1200px) {
@@ -1040,7 +1040,7 @@ section {
 }
 
 /*--------------------------------------------------------------
-# Insolvency&Bankruptcy
+# Insolvency & Bankruptcy
 --------------------------------------------------------------*/
 
 @media (min-width : 1200px) {
@@ -1063,6 +1063,41 @@ section {
 
 @media (max-width : 1199px) {
   .insolvency-align {
+    position: relative;
+    display: flex;
+    margin-top: -30px;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    z-index: -1;
+  }
+}
+
+/*--------------------------------------------------------------
+# Dispute Resolution
+--------------------------------------------------------------*/
+
+@media (min-width : 1200px) {
+  .disputeResolution-align {
+    position: relative;
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    z-index: -1;
+  }
+
+  #disputeResolutionText {
+    position: relative;
+    margin-top: 8.5rem;
+  }
+}
+
+@media (max-width : 1199px) {
+  .disputeResolution-align {
     position: relative;
     display: flex;
     margin-top: -30px;
