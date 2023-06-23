@@ -204,4 +204,12 @@
     })
   });
 
+  /**
+   * Toggle dropdown function
+   */
+  function toggleDropdown() {
+    var dropdown = document.querySelector('.dropdown');
+    dropdown.classList.toggle('show');
+  }
+
 })()
